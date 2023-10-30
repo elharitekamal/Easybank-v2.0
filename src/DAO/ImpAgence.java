@@ -117,6 +117,7 @@ public class ImpAgence implements IAgence {
                 agence.setTelephone(resultSet.getString("telephone"));
                 agence.setAdresse(resultSet.getString("adresse"));
             }
+            // close
             resultSet.close();
             preparedStatement.close();
             return Optional.ofNullable(agence);
