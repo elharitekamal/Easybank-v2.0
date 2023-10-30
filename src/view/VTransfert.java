@@ -32,7 +32,7 @@ public class VTransfert {
         transfert = new Transfert(c1,c2,prix);
         Optional<Transfert> opt=service.ajouter(transfert);
         opt.ifPresent(val->{
-            System.out.printf("TRANSFERT A ETE EFFECTUE AVEC SUCCES \n");
+            System.out.printf("Transfert avec succes \n");
         });
 
     }

@@ -3,10 +3,15 @@ package DAO;
 import Config.Database;
 import DTO.Demande;
 import Interfaces.IDemande;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
+import java.io.FileWriter;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.Date;
 import java.sql.PreparedStatement;
+import java.time.LocalDate;
 import java.util.Optional;
 
 public class ImpDemande implements IDemande {
@@ -31,4 +36,8 @@ public class ImpDemande implements IDemande {
         }
         return Optional.empty();
     }
+
+
+
+
 }

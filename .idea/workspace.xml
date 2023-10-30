@@ -5,47 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3dbaf22-4703-45d4-9795-23f494695bb2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Config/Database.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/scriptDB.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/Config/scriptDB.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion_banque.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gestion_banque.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestion_banque/Config/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gestion_banque/Config/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestion_banque/DAO/ImpDemande.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gestion_banque/DAO/ImpDemande.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/gestion_banque/services/demandeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gestion_banque/services/demandeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Config/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Config/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/ImpDemande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ImpDemande.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/IAgence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interfaces/IAgence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Interfaces/IData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/demandeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/demandeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/view/VSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/VSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/VTransfert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/VTransfert.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Easybank-v2.0\exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2XArg31pCsNGiYD1PekmcbnK1Fl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/YC/Downloads/jar_files/gson-2.8.2.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YC\Desktop\Easybank-v2.0\src\view" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Easybank-v2.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Easybank-v2.0" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +127,9 @@
       <option name="presentableId" value="Default" />
       <updated>1698082834083</updated>
       <workItem from="1698082836961" duration="5457000" />
+      <workItem from="1698326360992" duration="3884000" />
+      <workItem from="1698657292730" duration="746000" />
+      <workItem from="1698689685030" duration="2316000" />
     </task>
     <servers />
   </component>

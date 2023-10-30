@@ -4,7 +4,10 @@ import DAO.ImpAgence;
 import DAO.ImpDemande;
 import DTO.Agence;
 import DTO.Demande;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
+import java.time.LocalDate;
 import java.util.Optional;
 
 public class demandeService {
@@ -17,4 +20,5 @@ public class demandeService {
         Optional<Demande> optdemande=impDemande.ajouter(demande);
         return optdemande.isPresent();
     }
+
 }

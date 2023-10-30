@@ -60,7 +60,6 @@ public class ImpAgence implements IAgence {
     public Optional<Agence> update(Agence agence) {
         try {
             String insertSql = "update agence set nom= ? , adresse= ? ,telephone=? where code= ?";
-            // Create a PreparedStatement
             PreparedStatement preparedStatement = cnx.prepareStatement(insertSql);
             preparedStatement.setString(1, agence.getNom());
             preparedStatement.setString(2, agence.getAdresse());

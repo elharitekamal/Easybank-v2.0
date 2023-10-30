@@ -30,7 +30,7 @@ public class Menu {
             System.out.println("7. Administration des agence employes");
             System.out.println("8. Administration des transferts");
             System.out.println("9 Administration des demande de credit");
-            System.out.println("9. Quitter");
+            System.out.println("10. Quitter");
             System.out.println("Votre choix: ");
             //get the user input
             Scanner sc = new Scanner(System.in);
